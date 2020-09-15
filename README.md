@@ -1,1 +1,2 @@
-# What-The-Duck-
+# What The Duck
+2-D endless shooter unity based game.
